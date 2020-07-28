@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerQA", "SummerQA.csproj", "{25A38E02-D0B7-4B3B-9122-CDF6C2F3A819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A38E02-D0B7-4B3B-9122-CDF6C2F3A819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A38E02-D0B7-4B3B-9122-CDF6C2F3A819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A38E02-D0B7-4B3B-9122-CDF6C2F3A819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A38E02-D0B7-4B3B-9122-CDF6C2F3A819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA270447-084B-463D-9FB1-26D97EE69046}
+	EndGlobalSection
+EndGlobal
